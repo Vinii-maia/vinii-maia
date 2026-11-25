@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Eai! Eu sou o Vinicius De Souza Maia</h1>
 
-<!--
-**Vinii-maia/vinii-maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Informática para Internet na ETEC de Santa Isabel.
+  <br>
+  Desenvolvedor em formação, interessado em tecnologia e desenvolvimento web.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+- 🎓 Estudante da ETEC de Santa Isabel
+- 💻 Aprendendo desenvolvimento web
+- 🚀 Buscando evoluir e desenvolver novos projetos
+- 📚 Sempre em busca de novos conhecimentos gerais
+
+### 🛠️ Tecnologias e ferramentas
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+<p align="center">
+  Obrigado pela visita ao perfil! 
+</p>
